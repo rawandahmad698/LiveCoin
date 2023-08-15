@@ -83,9 +83,7 @@ class CryptoViewModel {
             .catch { error in
                 if let urlError = error as? URLError {
                     if urlError.code == .cancelled {
-                        // Handle request cancellation here
                         self.errorMessage.onNext("Request was cancelled.")
-                        print("Cancelled LOL")
                     } else {
                         self.errorMessage.onNext("An error occurred while decoding crypto data.")
                     }
