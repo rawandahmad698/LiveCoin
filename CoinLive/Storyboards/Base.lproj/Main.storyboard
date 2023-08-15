@@ -141,7 +141,7 @@
                                                     <constraint firstAttribute="bottom" secondItem="Fui-k5-CHB" secondAttribute="bottom" constant="17" id="O5F-WG-2Vm"/>
                                                     <constraint firstItem="Fui-k5-CHB" firstAttribute="top" secondItem="SV3-jr-mKb" secondAttribute="top" constant="17" id="nad-0r-Nnn"/>
                                                     <constraint firstItem="W7c-sV-1Kz" firstAttribute="top" secondItem="SV3-jr-mKb" secondAttribute="top" constant="17" id="sCh-JT-kPS"/>
-                                                    <constraint firstItem="W7c-sV-1Kz" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Fui-k5-CHB" secondAttribute="trailing" constant="29.666666666666671" id="yh8-W0-fcM"/>
+                                                    <constraint firstItem="W7c-sV-1Kz" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Fui-k5-CHB" secondAttribute="trailing" constant="20" id="yh8-W0-fcM"/>
                                                     <constraint firstAttribute="height" constant="50" id="znZ-yB-gQz"/>
                                                 </constraints>
                                                 <userDefinedRuntimeAttributes>
